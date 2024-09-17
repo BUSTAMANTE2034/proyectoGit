@@ -10,4 +10,4 @@ match z:
         print()
     
     case _:
-        print("Nada")
+        print("Nada más")
